@@ -3,14 +3,16 @@
 
 ## Instructions to run
 
-  1. Compile C++ code:
+  ### 1. Compile C++ code:
   
     $ g++ main.cpp
   
-  2. Run code:
+  ### 2. Run code:
+  
     (a) Linux:
     
       $ ./a.out
+      
     (b) Windows:
     
       $ a.cpp
