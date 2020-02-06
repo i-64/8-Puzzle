@@ -4,17 +4,21 @@
 ## Instructions to run
 
   1. Compile C++ code:
+  
     $ g++ main.cpp
   
   2. Run code:
     (a) Linux:
+    
       $ ./a.out
     (b) Windows:
+    
       $ a.cpp
 
 ## Changing the input
   The code reads input from the file "in.txt".
   Input Format:
+    
     2 8 3
     1 6 4
     7 0 5
