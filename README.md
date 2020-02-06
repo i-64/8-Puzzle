@@ -15,7 +15,7 @@
       
     (b) Windows:
     
-      $ a.cpp
+      $ a.exe
 
 ## Changing the input
   The code reads input from the file "in.txt".
